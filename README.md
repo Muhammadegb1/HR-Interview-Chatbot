@@ -7,7 +7,7 @@ This project simulates a real job interview experience and provides automated fe
 You can try the HR Interview Chatbot directly online:
 
 <p align="center">
-  <a href="https://hr-interview-chatbot-53qxeri6no9qzaghykzrwl.streamlit.app/" target="_blank">
+  <a href="https://hr-interview-chatbot-mdattmwabg2jsnli2dtkna.streamlit.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20Launch%20Live%20Demo-Streamlit-brightgreen?style=for-the-badge" />
   </a>
 </p>
