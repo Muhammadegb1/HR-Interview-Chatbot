@@ -3,8 +3,6 @@
 An interactive AI-powered HR Interview Chatbot built with **Streamlit** and the **OpenAI API**.  
 This project simulates a real job interview experience and provides automated feedback and scoring based on the candidate’s performance.
 
----
-
 ## 🌐 Live Demo
 You can try the HR Interview Chatbot directly online:
 
@@ -55,16 +53,6 @@ The chatbot supports interviews for roles such as:
 - Machine Learning Engineer  
 - BI Analyst  
 - Financial Analyst  
-
----
-
-## 🛠️ Tech Stack
-
-- **Python 3**
-- **Streamlit**
-- **OpenAI GPT-4o**
-- Session State Management
-- Modular Architecture (`app.py`, `chat_engine.py`, `feedback.py`, `utils.py`)
 
 ---
 
